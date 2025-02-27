@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **preksha13pote@gmail.com**
 
-- ⚡ Web developer by day, cybersecurity learner by night **.**
+- ⚡ Web developer by day, Cybersecurity learner by night **.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
