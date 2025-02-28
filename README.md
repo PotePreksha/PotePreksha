@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Preksha</h1>
 <h3 align="center">Web Developer in Progress | Learning Cybersecurity | Building Safe and Scalable Solutions</h3>
 
-- 🔭 I worked on **Online Voting System**
+- 🔭 I worked on **Online Voting System Using Html,Css,JavaScript,PHP.**
 
 - 🌱 I’m currently learning **Tailwind Css,Next.Js**
 
